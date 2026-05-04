@@ -39,7 +39,7 @@
   "emulators": [
     {
       "name": "Standalone Pizza Boy C Basic",
-      "unique_id": "gbc.it.dbtecno.pizzaboy",
+      "unique_id": "gbc-hacks.it.dbtecno.pizzaboy",
       "description": "Supported extensions: gb, gbc, gbs, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -50,7 +50,7 @@
     },
     {
       "name": "Standalone Pizza Boy C Pro",
-      "unique_id": "gbc.it.dbtecno.pizzaboypro",
+      "unique_id": "gbc-hacks.it.dbtecno.pizzaboypro",
       "description": "Supported extensions: gb, gbc, gbs, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -61,7 +61,7 @@
     },
     {
       "name": "Standalone SkyEmu",
-      "unique_id": "gbc.com.sky.SkyEmu",
+      "unique_id": "gbc-hacks.com.sky.SkyEmu",
       "description": "Supported extensions: gb, gbc.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -72,7 +72,7 @@
     },
     {
       "name": "Standalone GBC.emu",
-      "unique_id": "gbc.com.explusalpha.GbcEmu",
+      "unique_id": "gbc-hacks.com.explusalpha.GbcEmu",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -83,7 +83,7 @@
     },
     {
       "name": "Standalone GBC Emulator",
-      "unique_id": "gbc.com.fastemulator.gbcfree",
+      "unique_id": "gbc-hacks.com.fastemulator.gbcfree",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -94,7 +94,7 @@
     },
     {
       "name": "Standalone GBC Emulator (Paid)",
-      "unique_id": "gbc.com.fastemulator.gbc",
+      "unique_id": "gbc-hacks.com.fastemulator.gbc",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -105,7 +105,7 @@
     },
     {
       "name": "Standalone Linkboy",
-      "unique_id": "gbc.com.pixelrespawn.linkboy",
+      "unique_id": "gbc-hacks.com.pixelrespawn.linkboy",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -116,7 +116,7 @@
     },
     {
       "name": "RetroArch64 Gambatte",
-      "unique_id": "gbc.ra64.gambatte",
+      "unique_id": "gbc-hacks.ra64.gambatte",
       "description": "Supported extensions: dmg, gb, gbc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -127,7 +127,7 @@
     },
     {
       "name": "RetroArch64 Gearboy",
-      "unique_id": "gbc.ra64.gearboy",
+      "unique_id": "gbc-hacks.ra64.gearboy",
       "description": "Supported extensions: cgb, dmg, gb, gbc, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -138,7 +138,7 @@
     },
     {
       "name": "RetroArch64 SameBoy",
-      "unique_id": "gbc.ra64.sameboy",
+      "unique_id": "gbc-hacks.ra64.sameboy",
       "description": "Supported extensions: gb, gbc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -149,7 +149,7 @@
     },
     {
       "name": "RetroArch64 TGB Dual",
-      "unique_id": "gbc.ra64.tgbdual",
+      "unique_id": "gbc-hacks.ra64.tgbdual",
       "description": "Supported extensions: gb, gbc, sgb, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -160,7 +160,7 @@
     },
     {
       "name": "RetroArch64 DoubleCherryGB",
-      "unique_id": "gbc.ra64.DoubleCherryGB",
+      "unique_id": "gbc-hacks.ra64.DoubleCherryGB",
       "description": "Supported extensions: dmg, cgb, gb, gbc, sgb, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -171,7 +171,7 @@
     },
     {
       "name": "RetroArch64 Mesen-S",
-      "unique_id": "gbc.ra64.mesen-s",
+      "unique_id": "gbc-hacks.ra64.mesen-s",
       "description": "Supported extensions: gb, gbc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -182,7 +182,7 @@
     },
     {
       "name": "RetroArch64 VBA-M",
-      "unique_id": "gbc.ra64.vbam",
+      "unique_id": "gbc-hacks.ra64.vbam",
       "description": "Supported extensions: cgb, dmg, gb, gba, gbc, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -193,7 +193,7 @@
     },
     {
       "name": "RetroArch64 mGBA",
-      "unique_id": "gbc.ra64.mgba",
+      "unique_id": "gbc-hacks.ra64.mgba",
       "description": "Supported extensions: gb, gba, gbc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -204,7 +204,7 @@
     },
     {
       "name": "RetroArch32 Gambatte",
-      "unique_id": "gbc.ra32.gambatte",
+      "unique_id": "gbc-hacks.ra32.gambatte",
       "description": "Supported extensions: dmg, gb, gbc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -215,7 +215,7 @@
     },
     {
       "name": "RetroArch32 Gearboy",
-      "unique_id": "gbc.ra32.gearboy",
+      "unique_id": "gbc-hacks.ra32.gearboy",
       "description": "Supported extensions: cgb, dmg, gb, gbc, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -226,7 +226,7 @@
     },
     {
       "name": "RetroArch32 SameBoy",
-      "unique_id": "gbc.ra32.sameboy",
+      "unique_id": "gbc-hacks.ra32.sameboy",
       "description": "Supported extensions: gb, gbc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -237,7 +237,7 @@
     },
     {
       "name": "RetroArch32 TGB Dual",
-      "unique_id": "gbc.ra32.tgbdual",
+      "unique_id": "gbc-hacks.ra32.tgbdual",
       "description": "Supported extensions: gb, gbc, sgb, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -248,7 +248,7 @@
     },
     {
       "name": "RetroArch32 DoubleCherryGB",
-      "unique_id": "gbc.ra32.DoubleCherryGB",
+      "unique_id": "gbc-hacks.ra32.DoubleCherryGB",
       "description": "Supported extensions: dmg, cgb, gb, gbc, sgb, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -259,7 +259,7 @@
     },
     {
       "name": "RetroArch32 Mesen-S",
-      "unique_id": "gbc.ra32.mesen-s",
+      "unique_id": "gbc-hacks.ra32.mesen-s",
       "description": "Supported extensions: gb, gbc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -270,7 +270,7 @@
     },
     {
       "name": "RetroArch32 VBA-M",
-      "unique_id": "gbc.ra32.vbam",
+      "unique_id": "gbc-hacks.ra32.vbam",
       "description": "Supported extensions: cgb, dmg, gb, gba, gbc, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -281,7 +281,7 @@
     },
     {
       "name": "RetroArch32 mGBA",
-      "unique_id": "gbc.ra32.mgba",
+      "unique_id": "gbc-hacks.ra32.mgba",
       "description": "Supported extensions: gb, gba, gbc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -293,7 +293,7 @@
     {
       "name": "RetroArch Gambatte",
       "default": true,
-      "unique_id": "gbc.ra.gambatte",
+      "unique_id": "gbc-hacks.ra.gambatte",
       "description": "Supported extensions: dmg, gb, gbc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -316,7 +316,7 @@
     },
     {
       "name": "RetroArch Gearboy",
-      "unique_id": "gbc.ra.gearboy",
+      "unique_id": "gbc-hacks.ra.gearboy",
       "description": "Supported extensions: cgb, dmg, gb, gbc, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -339,7 +339,7 @@
     },
     {
       "name": "RetroArch SameBoy",
-      "unique_id": "gbc.ra.sameboy",
+      "unique_id": "gbc-hacks.ra.sameboy",
       "description": "Supported extensions: gb, gbc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -362,7 +362,7 @@
     },
     {
       "name": "RetroArch TGB Dual",
-      "unique_id": "gbc.ra.tgbdual",
+      "unique_id": "gbc-hacks.ra.tgbdual",
       "description": "Supported extensions: gb, gbc, sgb, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -385,7 +385,7 @@
     },
     {
       "name": "RetroArch DoubleCherryGB",
-      "unique_id": "gbc.ra.DoubleCherryGB",
+      "unique_id": "gbc-hacks.ra.DoubleCherryGB",
       "description": "Supported extensions: dmg, cgb, gb, gbc, sgb, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -408,7 +408,7 @@
     },
     {
       "name": "RetroArch Mesen-S",
-      "unique_id": "gbc.ra.mesen-s",
+      "unique_id": "gbc-hacks.ra.mesen-s",
       "description": "Supported extensions: gb, gbc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -431,7 +431,7 @@
     },
     {
       "name": "RetroArch VBA-M",
-      "unique_id": "gbc.ra.vbam",
+      "unique_id": "gbc-hacks.ra.vbam",
       "description": "Supported extensions: cgb, dmg, gb, gba, gbc, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -454,7 +454,7 @@
     },
     {
       "name": "RetroArch mGBA",
-      "unique_id": "gbc.ra.mgba",
+      "unique_id": "gbc-hacks.ra.mgba",
       "description": "Supported extensions: gb, gba, gbc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {

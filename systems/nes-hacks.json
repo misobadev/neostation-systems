@@ -39,7 +39,7 @@
   "emulators": [
     {
       "name": "Standalone Nes.Emu",
-      "unique_id": "nes.com.explusalpha.NesEmu",
+      "unique_id": "nes-hacks.com.explusalpha.NesEmu",
       "description": "Support extensions: bin, fds, nes, nsf, qd, rom, unf, unif.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -50,7 +50,7 @@
     },
     {
       "name": "Standalone Nes Emu",
-      "unique_id": "nes.com.androidemu.nes",
+      "unique_id": "nes-hacks.com.androidemu.nes",
       "description": "Support extensions: bin, fds, nes, nsf, qd, rom, unf, unif.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -61,7 +61,7 @@
     },
     {
       "name": "RetroArch64 Nestopia",
-      "unique_id": "nes.ra64.nestopia",
+      "unique_id": "nes-hacks.ra64.nestopia",
       "description": "Supported extensions: fds, nes, unf, unif, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -72,7 +72,7 @@
     },
     {
       "name": "RetroArch64 FCEUmm",
-      "unique_id": "nes.ra64.fceumm",
+      "unique_id": "nes-hacks.ra64.fceumm",
       "description": "Supported extensions: fds, nes, unf, unif.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -83,7 +83,7 @@
     },
     {
       "name": "RetroArch64 Mesen",
-      "unique_id": "nes.ra64.mesen",
+      "unique_id": "nes-hacks.ra64.mesen",
       "description": "Supported extensions: fds, nes, unf, unif.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -94,7 +94,7 @@
     },
     {
       "name": "RetroArch64 QuickNES",
-      "unique_id": "nes.ra64.quicknes",
+      "unique_id": "nes-hacks.ra64.quicknes",
       "description": "Supported extensions: nes.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -105,7 +105,7 @@
     },
     {
       "name": "RetroArch64 bnes",
-      "unique_id": "nes.ra64.bnes",
+      "unique_id": "nes-hacks.ra64.bnes",
       "description": "Supported extensions: nes.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -116,7 +116,7 @@
     },
     {
       "name": "RetroArch32 Nestopia",
-      "unique_id": "nes.ra32.nestopia",
+      "unique_id": "nes-hacks.ra32.nestopia",
       "description": "Supported extensions: fds, nes, unf, unif, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -127,7 +127,7 @@
     },
     {
       "name": "RetroArch32 FCEUmm",
-      "unique_id": "nes.ra32.fceumm",
+      "unique_id": "nes-hacks.ra32.fceumm",
       "description": "Supported extensions: fds, nes, unf, unif.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -138,7 +138,7 @@
     },
     {
       "name": "RetroArch32 Mesen",
-      "unique_id": "nes.ra32.mesen",
+      "unique_id": "nes-hacks.ra32.mesen",
       "description": "Supported extensions: fds, nes, unf, unif.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -149,7 +149,7 @@
     },
     {
       "name": "RetroArch32 QuickNES",
-      "unique_id": "nes.ra32.quicknes",
+      "unique_id": "nes-hacks.ra32.quicknes",
       "description": "Supported extensions: nes.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -160,7 +160,7 @@
     },
     {
       "name": "RetroArch32 bnes",
-      "unique_id": "nes.ra32.bnes",
+      "unique_id": "nes-hacks.ra32.bnes",
       "description": "Supported extensions: nes.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -171,7 +171,7 @@
     },
     {
       "name": "RetroArch Nestopia",
-      "unique_id": "nes.ra.nestopia",
+      "unique_id": "nes-hacks.ra.nestopia",
       "description": "Supported extensions: fds, nes, unf, unif, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -195,7 +195,7 @@
     {
       "name": "RetroArch FCEUmm",
       "default": true,
-      "unique_id": "nes.ra.fceumm",
+      "unique_id": "nes-hacks.ra.fceumm",
       "description": "Supported extensions: fds, nes, unf, unif.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -218,7 +218,7 @@
     },
     {
       "name": "RetroArch Mesen",
-      "unique_id": "nes.ra.mesen",
+      "unique_id": "nes-hacks.ra.mesen",
       "description": "Supported extensions: fds, nes, unf, unif.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -241,7 +241,7 @@
     },
     {
       "name": "RetroArch QuickNES",
-      "unique_id": "nes.ra.quicknes",
+      "unique_id": "nes-hacks.ra.quicknes",
       "description": "Supported extensions: nes.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -264,7 +264,7 @@
     },
     {
       "name": "RetroArch bnes",
-      "unique_id": "nes.ra.bnes",
+      "unique_id": "nes-hacks.ra.bnes",
       "description": "Supported extensions: nes.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -287,7 +287,7 @@
     },
     {
       "name": "RetroArch FBNeo",
-      "unique_id": "nes.ra.fbneo",
+      "unique_id": "nes-hacks.ra.fbneo",
       "description": "Supported extensions: 7z, ccd, cue, zip.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -310,7 +310,7 @@
     },
     {
       "name": "RetroArch64 FBNeo",
-      "unique_id": "nes.ra64.fbneo",
+      "unique_id": "nes-hacks.ra64.fbneo",
       "description": "Supported extensions: 7z, ccd, cue, zip.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -321,7 +321,7 @@
     },
     {
       "name": "RetroArch32 FBNeo",
-      "unique_id": "nes.ra32.fbneo",
+      "unique_id": "nes-hacks.ra32.fbneo",
       "description": "Supported extensions: 7z, ccd, cue, zip.",
       "is_retroachievements_compatible": false,
       "platforms": {

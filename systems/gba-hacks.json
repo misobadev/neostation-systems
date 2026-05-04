@@ -40,7 +40,7 @@
   "emulators": [
     {
       "name": "Standalone Pizza Boy GBA Basic",
-      "unique_id": "gba.it.dbtecno.pizzaboygba",
+      "unique_id": "gba-hacks.it.dbtecno.pizzaboygba",
       "description": "Supported extensions: gba, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -51,7 +51,7 @@
     },
     {
       "name": "Standalone Pizza Boy GBA Pro",
-      "unique_id": "gba.it.dbtecno.pizzaboygbapro",
+      "unique_id": "gba-hacks.it.dbtecno.pizzaboygbapro",
       "description": "Supported extensions: gba, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -62,7 +62,7 @@
     },
     {
       "name": "Standalone SkyEmu",
-      "unique_id": "gba.com.sky.SkyEmu",
+      "unique_id": "gba-hacks.com.sky.SkyEmu",
       "description": "Supported extensions: gba.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -73,7 +73,7 @@
     },
     {
       "name": "Standalone GBA.emu",
-      "unique_id": "gba.com.explusalpha.GbaEmu",
+      "unique_id": "gba-hacks.com.explusalpha.GbaEmu",
       "description": "Support extensions: agb, bin, cgb, dmg, gb, gba, gbc, gbz, sgb.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -84,7 +84,7 @@
     },
     {
       "name": "Standalone GBA Emulator",
-      "unique_id": "gba.com.fastemulator.gbafree",
+      "unique_id": "gba-hacks.com.fastemulator.gbafree",
       "description": "Support extensions: agb, bin, cgb, dmg, gb, gba, gbc, gbz, sgb.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -95,7 +95,7 @@
     },
     {
       "name": "Standalone GBA Emulator (Paid)",
-      "unique_id": "gba.com.fastemulator.gba",
+      "unique_id": "gba-hacks.com.fastemulator.gba",
       "description": "Support extensions: agb, bin, cgb, dmg, gb, gba, gbc, gbz, sgb.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -106,7 +106,7 @@
     },
     {
       "name": "Standalone Linkboy",
-      "unique_id": "gba.com.pixelrespawn.linkboy",
+      "unique_id": "gba-hacks.com.pixelrespawn.linkboy",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -117,7 +117,7 @@
     },
     {
       "name": "RetroArch64 VBA Next",
-      "unique_id": "gba.ra64.vba_next",
+      "unique_id": "gba-hacks.ra64.vba_next",
       "description": "Supported extensions: gba, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -128,7 +128,7 @@
     },
     {
       "name": "RetroArch64 VBA-M",
-      "unique_id": "gba.ra64.vbam",
+      "unique_id": "gba-hacks.ra64.vbam",
       "description": "Supported extensions: cgb, dmg, gb, gba, gbc, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -139,7 +139,7 @@
     },
     {
       "name": "RetroArch64 mGBA",
-      "unique_id": "gba.ra64.mgba",
+      "unique_id": "gba-hacks.ra64.mgba",
       "description": "Supported extensions: gb, gba, gbc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -150,7 +150,7 @@
     },
     {
       "name": "RetroArch64 Beetle GBA",
-      "unique_id": "gba.ra64.mednafen_gba",
+      "unique_id": "gba-hacks.ra64.mednafen_gba",
       "description": "Supported extensions: agb, bin, gba.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -161,7 +161,7 @@
     },
     {
       "name": "RetroArch64 Meteor",
-      "unique_id": "gba.ra64.meteor",
+      "unique_id": "gba-hacks.ra64.meteor",
       "description": "Supported extensions: gba.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -172,7 +172,7 @@
     },
     {
       "name": "RetroArch64 gpSP",
-      "unique_id": "gba.ra64.gpsp",
+      "unique_id": "gba-hacks.ra64.gpsp",
       "description": "Supported extensions: bin, gba, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -183,7 +183,7 @@
     },
     {
       "name": "RetroArch32 VBA Next",
-      "unique_id": "gba.ra32.vba_next",
+      "unique_id": "gba-hacks.ra32.vba_next",
       "description": "Supported extensions: gba, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -194,7 +194,7 @@
     },
     {
       "name": "RetroArch32 VBA-M",
-      "unique_id": "gba.ra32.vbam",
+      "unique_id": "gba-hacks.ra32.vbam",
       "description": "Supported extensions: cgb, dmg, gb, gba, gbc, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -205,7 +205,7 @@
     },
     {
       "name": "RetroArch32 mGBA",
-      "unique_id": "gba.ra32.mgba",
+      "unique_id": "gba-hacks.ra32.mgba",
       "description": "Supported extensions: gb, gba, gbc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -216,7 +216,7 @@
     },
     {
       "name": "RetroArch32 Beetle GBA",
-      "unique_id": "gba.ra32.mednafen_gba",
+      "unique_id": "gba-hacks.ra32.mednafen_gba",
       "description": "Supported extensions: agb, bin, gba.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -227,7 +227,7 @@
     },
     {
       "name": "RetroArch32 Meteor",
-      "unique_id": "gba.ra32.meteor",
+      "unique_id": "gba-hacks.ra32.meteor",
       "description": "Supported extensions: gba.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -238,7 +238,7 @@
     },
     {
       "name": "RetroArch32 gpSP",
-      "unique_id": "gba.ra32.gpsp",
+      "unique_id": "gba-hacks.ra32.gpsp",
       "description": "Supported extensions: bin, gba, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -249,7 +249,7 @@
     },
     {
       "name": "RetroArch VBA Next",
-      "unique_id": "gba.ra.vba_next",
+      "unique_id": "gba-hacks.ra.vba_next",
       "description": "Supported extensions: gba, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -272,7 +272,7 @@
     },
     {
       "name": "RetroArch VBA-M",
-      "unique_id": "gba.ra.vbam",
+      "unique_id": "gba-hacks.ra.vbam",
       "description": "Supported extensions: cgb, dmg, gb, gba, gbc, sgb.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -296,7 +296,7 @@
     {
       "name": "RetroArch mGBA",
       "default": true,
-      "unique_id": "gba.ra.mgba",
+      "unique_id": "gba-hacks.ra.mgba",
       "description": "Supported extensions: gb, gba, gbc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -319,7 +319,7 @@
     },
     {
       "name": "RetroArch Beetle GBA",
-      "unique_id": "gba.ra.mednafen_gba",
+      "unique_id": "gba-hacks.ra.mednafen_gba",
       "description": "Supported extensions: agb, bin, gba.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -342,7 +342,7 @@
     },
     {
       "name": "RetroArch gpsp",
-      "unique_id": "gba.ra.gpsp",
+      "unique_id": "gba-hacks.ra.gpsp",
       "description": "Supported extensions: bin, gba, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -365,7 +365,7 @@
     },
     {
       "name": "RetroArch Meteor",
-      "unique_id": "gba.ra.meteor",
+      "unique_id": "gba-hacks.ra.meteor",
       "description": "Supported extensions: gba.",
       "is_retroachievements_compatible": false,
       "platforms": {

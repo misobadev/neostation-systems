@@ -44,7 +44,7 @@
   "emulators": [
     {
       "name": "Standalone Snes9x EX+",
-      "unique_id": "sfc.com.explusalpha.Snes9xPlus",
+      "unique_id": "sfc-hacks.com.explusalpha.Snes9xPlus",
       "description": "Supported extensions: bml, bs, bsx, dx2, fig, gb, gbc, gd3, gd7, rom, sfc, smc, st, swc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -55,7 +55,7 @@
     },
     {
       "name": "RetroArch64 Snes9x",
-      "unique_id": "sfc.ra64.snes9x",
+      "unique_id": "sfc-hacks.ra64.snes9x",
       "description": "Supported extensions: bs, fig, sfc, smc, st, swc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -66,7 +66,7 @@
     },
     {
       "name": "RetroArch64 higan",
-      "unique_id": "sfc.ra64.higan_sfc",
+      "unique_id": "sfc-hacks.ra64.higan_sfc",
       "description": "Supported extensions: bml, gb, gbc, rom, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -77,7 +77,7 @@
     },
     {
       "name": "RetroArch64 higan balanced",
-      "unique_id": "sfc.ra64.higan_sfc_balanced",
+      "unique_id": "sfc-hacks.ra64.higan_sfc_balanced",
       "description": "Supported extensions: bml, gb, gbc, rom, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -88,7 +88,7 @@
     },
     {
       "name": "RetroArch64 Beetle Supafaust",
-      "unique_id": "sfc.ra64.mednafen_supafaust",
+      "unique_id": "sfc-hacks.ra64.mednafen_supafaust",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -99,7 +99,7 @@
     },
     {
       "name": "RetroArch64 Beetle SNES",
-      "unique_id": "sfc.ra64.mednafen_snes",
+      "unique_id": "sfc-hacks.ra64.mednafen_snes",
       "description": "Supported extensions: bs, fig, sfc, smc, st.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -110,7 +110,7 @@
     },
     {
       "name": "RetroArch64 Snes9x 2002",
-      "unique_id": "sfc.ra64.snes9x2002",
+      "unique_id": "sfc-hacks.ra64.snes9x2002",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -121,7 +121,7 @@
     },
     {
       "name": "RetroArch64 Snes9x 2005 Plus",
-      "unique_id": "sfc.ra64.snes9x2005_plus",
+      "unique_id": "sfc-hacks.ra64.snes9x2005_plus",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -132,7 +132,7 @@
     },
     {
       "name": "RetroArch64 Snes9x 2005",
-      "unique_id": "sfc.ra64.snes9x2005",
+      "unique_id": "sfc-hacks.ra64.snes9x2005",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -143,7 +143,7 @@
     },
     {
       "name": "RetroArch64 Snes9x 2010",
-      "unique_id": "sfc.ra64.snes9x2010",
+      "unique_id": "sfc-hacks.ra64.snes9x2010",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -154,7 +154,7 @@
     },
     {
       "name": "RetroArch64 bsnes 2014 Accuracy",
-      "unique_id": "sfc.ra64.bsnes2014_accuracy",
+      "unique_id": "sfc-hacks.ra64.bsnes2014_accuracy",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -165,7 +165,7 @@
     },
     {
       "name": "RetroArch64 bsnes 2014 Balanced",
-      "unique_id": "sfc.ra64.bsnes2014_balanced",
+      "unique_id": "sfc-hacks.ra64.bsnes2014_balanced",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -176,7 +176,7 @@
     },
     {
       "name": "RetroArch64 bsnes 2014 Performance",
-      "unique_id": "sfc.ra64.bsnes2014_performance",
+      "unique_id": "sfc-hacks.ra64.bsnes2014_performance",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -187,7 +187,7 @@
     },
     {
       "name": "RetroArch64 bsnes C++98",
-      "unique_id": "sfc.ra64.bsnes_cplusplus98",
+      "unique_id": "sfc-hacks.ra64.bsnes_cplusplus98",
       "description": "Supported extensions: sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -198,7 +198,7 @@
     },
     {
       "name": "RetroArch64 bsnes",
-      "unique_id": "sfc.ra64.bsnes",
+      "unique_id": "sfc-hacks.ra64.bsnes",
       "description": "Supported extensions: gb, gbc, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -209,7 +209,7 @@
     },
     {
       "name": "RetroArch64 bsnes HD Beta",
-      "unique_id": "sfc.ra64.bsnes_hd_beta",
+      "unique_id": "sfc-hacks.ra64.bsnes_hd_beta",
       "description": "Supported extensions: gb, gbc, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -220,7 +220,7 @@
     },
     {
       "name": "RetroArch64 bsnes Mercury Accuracy",
-      "unique_id": "sfc.ra64.bsnes_mercury_accuracy",
+      "unique_id": "sfc-hacks.ra64.bsnes_mercury_accuracy",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -231,7 +231,7 @@
     },
     {
       "name": "RetroArch64 bsnes Mercury Balanced",
-      "unique_id": "sfc.ra64.bsnes_mercury_balanced",
+      "unique_id": "sfc-hacks.ra64.bsnes_mercury_balanced",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -242,7 +242,7 @@
     },
     {
       "name": "RetroArch64 bsnes Mercury Performance",
-      "unique_id": "sfc.ra64.bsnes_mercury_performance",
+      "unique_id": "sfc-hacks.ra64.bsnes_mercury_performance",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -253,7 +253,7 @@
     },
     {
       "name": "RetroArch64 Mesen-S",
-      "unique_id": "sfc.ra64.mesen-s",
+      "unique_id": "sfc-hacks.ra64.mesen-s",
       "description": "Supported extensions: sfc, smc, fig, swc.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -264,7 +264,7 @@
     },
     {
       "name": "RetroArch32 Snes9x",
-      "unique_id": "sfc.ra32.snes9x",
+      "unique_id": "sfc-hacks.ra32.snes9x",
       "description": "Supported extensions: bs, fig, sfc, smc, st, swc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -275,7 +275,7 @@
     },
     {
       "name": "RetroArch32 higan",
-      "unique_id": "sfc.ra32.higan_sfc",
+      "unique_id": "sfc-hacks.ra32.higan_sfc",
       "description": "Supported extensions: bml, gb, gbc, rom, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -286,7 +286,7 @@
     },
     {
       "name": "RetroArch32 higan balanced",
-      "unique_id": "sfc.ra32.higan_sfc_balanced",
+      "unique_id": "sfc-hacks.ra32.higan_sfc_balanced",
       "description": "Supported extensions: bml, gb, gbc, rom, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -297,7 +297,7 @@
     },
     {
       "name": "RetroArch32 Beetle Supafaust",
-      "unique_id": "sfc.ra32.mednafen_supafaust",
+      "unique_id": "sfc-hacks.ra32.mednafen_supafaust",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -308,7 +308,7 @@
     },
     {
       "name": "RetroArch32 Beetle SNES",
-      "unique_id": "sfc.ra32.mednafen_snes",
+      "unique_id": "sfc-hacks.ra32.mednafen_snes",
       "description": "Supported extensions: bs, fig, sfc, smc, st.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -319,7 +319,7 @@
     },
     {
       "name": "RetroArch32 Snes9x 2002",
-      "unique_id": "sfc.ra32.snes9x2002",
+      "unique_id": "sfc-hacks.ra32.snes9x2002",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -330,7 +330,7 @@
     },
     {
       "name": "RetroArch32 Snes9x 2005 Plus",
-      "unique_id": "sfc.ra32.snes9x2005_plus",
+      "unique_id": "sfc-hacks.ra32.snes9x2005_plus",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -341,7 +341,7 @@
     },
     {
       "name": "RetroArch32 Snes9x 2005",
-      "unique_id": "sfc.ra32.snes9x2005",
+      "unique_id": "sfc-hacks.ra32.snes9x2005",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -352,7 +352,7 @@
     },
     {
       "name": "RetroArch32 Snes9x 2010",
-      "unique_id": "sfc.ra32.snes9x2010",
+      "unique_id": "sfc-hacks.ra32.snes9x2010",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -363,7 +363,7 @@
     },
     {
       "name": "RetroArch32 bsnes 2014 Accuracy",
-      "unique_id": "sfc.ra32.bsnes2014_accuracy",
+      "unique_id": "sfc-hacks.ra32.bsnes2014_accuracy",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -374,7 +374,7 @@
     },
     {
       "name": "RetroArch32 bsnes 2014 Balanced",
-      "unique_id": "sfc.ra32.bsnes2014_balanced",
+      "unique_id": "sfc-hacks.ra32.bsnes2014_balanced",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -385,7 +385,7 @@
     },
     {
       "name": "RetroArch32 bsnes 2014 Performance",
-      "unique_id": "sfc.ra32.bsnes2014_performance",
+      "unique_id": "sfc-hacks.ra32.bsnes2014_performance",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -396,7 +396,7 @@
     },
     {
       "name": "RetroArch32 bsnes C++98",
-      "unique_id": "sfc.ra32.bsnes_cplusplus98",
+      "unique_id": "sfc-hacks.ra32.bsnes_cplusplus98",
       "description": "Supported extensions: sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -407,7 +407,7 @@
     },
     {
       "name": "RetroArch32 bsnes",
-      "unique_id": "sfc.ra32.bsnes",
+      "unique_id": "sfc-hacks.ra32.bsnes",
       "description": "Supported extensions: gb, gbc, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -418,7 +418,7 @@
     },
     {
       "name": "RetroArch32 bsnes HD Beta",
-      "unique_id": "sfc.ra32.bsnes_hd_beta",
+      "unique_id": "sfc-hacks.ra32.bsnes_hd_beta",
       "description": "Supported extensions: gb, gbc, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -429,7 +429,7 @@
     },
     {
       "name": "RetroArch32 bsnes Mercury Accuracy",
-      "unique_id": "sfc.ra32.bsnes_mercury_accuracy",
+      "unique_id": "sfc-hacks.ra32.bsnes_mercury_accuracy",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -440,7 +440,7 @@
     },
     {
       "name": "RetroArch32 bsnes Mercury Balanced",
-      "unique_id": "sfc.ra32.bsnes_mercury_balanced",
+      "unique_id": "sfc-hacks.ra32.bsnes_mercury_balanced",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -451,7 +451,7 @@
     },
     {
       "name": "RetroArch32 bsnes Mercury Performance",
-      "unique_id": "sfc.ra32.bsnes_mercury_performance",
+      "unique_id": "sfc-hacks.ra32.bsnes_mercury_performance",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -462,7 +462,7 @@
     },
     {
       "name": "RetroArch32 Mesen-S",
-      "unique_id": "sfc.ra32.mesen-s",
+      "unique_id": "sfc-hacks.ra32.mesen-s",
       "description": "Supported extensions: sfc, smc, fig, swc.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -474,7 +474,7 @@
     {
       "name": "RetroArch Snes9x",
       "default": true,
-      "unique_id": "sfc.ra.snes9x",
+      "unique_id": "sfc-hacks.ra.snes9x",
       "description": "Supported extensions: bs, fig, sfc, smc, st, swc, zip, 7z.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -497,7 +497,7 @@
     },
     {
       "name": "RetroArch higan",
-      "unique_id": "sfc.ra.higan_sfc",
+      "unique_id": "sfc-hacks.ra.higan_sfc",
       "description": "Supported extensions: bml, gb, gbc, rom, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -520,7 +520,7 @@
     },
     {
       "name": "RetroArch higan balanced",
-      "unique_id": "sfc.ra.higan_sfc_balanced",
+      "unique_id": "sfc-hacks.ra.higan_sfc_balanced",
       "description": "Supported extensions: bml, gb, gbc, rom, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -543,7 +543,7 @@
     },
     {
       "name": "RetroArch Beetle Supafaust",
-      "unique_id": "sfc.ra.mednafen_supafaust",
+      "unique_id": "sfc-hacks.ra.mednafen_supafaust",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -566,7 +566,7 @@
     },
     {
       "name": "RetroArch Beetle SNES",
-      "unique_id": "sfc.ra.mednafen_snes",
+      "unique_id": "sfc-hacks.ra.mednafen_snes",
       "description": "Supported extensions: bs, fig, sfc, smc, st.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -589,7 +589,7 @@
     },
     {
       "name": "RetroArch Snes9x 2002",
-      "unique_id": "sfc.ra.snes9x2002",
+      "unique_id": "sfc-hacks.ra.snes9x2002",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -612,7 +612,7 @@
     },
     {
       "name": "RetroArch Snes9x 2005 Plus",
-      "unique_id": "sfc.ra.snes9x2005_plus",
+      "unique_id": "sfc-hacks.ra.snes9x2005_plus",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -635,7 +635,7 @@
     },
     {
       "name": "RetroArch Snes9x 2005",
-      "unique_id": "sfc.ra.snes9x2005",
+      "unique_id": "sfc-hacks.ra.snes9x2005",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -658,7 +658,7 @@
     },
     {
       "name": "RetroArch Snes9x 2010",
-      "unique_id": "sfc.ra.snes9x2010",
+      "unique_id": "sfc-hacks.ra.snes9x2010",
       "description": "Supported extensions: bsx, dx2, fig, gd3, gd7, sfc, smc, swc, zip, 7z.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -681,7 +681,7 @@
     },
     {
       "name": "RetroArch bsnes 2014 Accuracy",
-      "unique_id": "sfc.ra.bsnes2014_accuracy",
+      "unique_id": "sfc-hacks.ra.bsnes2014_accuracy",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -704,7 +704,7 @@
     },
     {
       "name": "RetroArch bsnes 2014 Balanced",
-      "unique_id": "sfc.ra.bsnes2014_balanced",
+      "unique_id": "sfc-hacks.ra.bsnes2014_balanced",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -727,7 +727,7 @@
     },
     {
       "name": "RetroArch bsnes 2014 Performance",
-      "unique_id": "sfc.ra.bsnes2014_performance",
+      "unique_id": "sfc-hacks.ra.bsnes2014_performance",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -750,7 +750,7 @@
     },
     {
       "name": "RetroArch bsnes C++98",
-      "unique_id": "sfc.ra.bsnes_cplusplus98",
+      "unique_id": "sfc-hacks.ra.bsnes_cplusplus98",
       "description": "Supported extensions: sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -773,7 +773,7 @@
     },
     {
       "name": "RetroArch bsnes",
-      "unique_id": "sfc.ra.bsnes",
+      "unique_id": "sfc-hacks.ra.bsnes",
       "description": "Supported extensions: gb, gbc, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -796,7 +796,7 @@
     },
     {
       "name": "RetroArch bsnes HD Beta",
-      "unique_id": "sfc.ra.bsnes_hd_beta",
+      "unique_id": "sfc-hacks.ra.bsnes_hd_beta",
       "description": "Supported extensions: gb, gbc, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -819,7 +819,7 @@
     },
     {
       "name": "RetroArch bsnes Mercury Accuracy",
-      "unique_id": "sfc.ra.bsnes_mercury_accuracy",
+      "unique_id": "sfc-hacks.ra.bsnes_mercury_accuracy",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -842,7 +842,7 @@
     },
     {
       "name": "RetroArch bsnes Mercury Balanced",
-      "unique_id": "sfc.ra.bsnes_mercury_balanced",
+      "unique_id": "sfc-hacks.ra.bsnes_mercury_balanced",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -865,7 +865,7 @@
     },
     {
       "name": "RetroArch bsnes Mercury Performance",
-      "unique_id": "sfc.ra.bsnes_mercury_performance",
+      "unique_id": "sfc-hacks.ra.bsnes_mercury_performance",
       "description": "Supported extensions: bml, sfc, smc.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -888,7 +888,7 @@
     },
     {
       "name": "RetroArch Mesen-S",
-      "unique_id": "sfc.ra.mesen-s",
+      "unique_id": "sfc-hacks.ra.mesen-s",
       "description": "Supported extensions: sfc, smc, fig, swc.",
       "is_retroachievements_compatible": true,
       "platforms": {
@@ -911,7 +911,7 @@
     },
     {
       "name": "RetroArch FBNeo",
-      "unique_id": "sfc.ra.fbneo",
+      "unique_id": "sfc-hacks.ra.fbneo",
       "description": "Supported extensions: 7z, ccd, cue, zip.",
       "is_retroachievements_compatible": false,
       "platforms": {
@@ -934,7 +934,7 @@
     },
     {
       "name": "RetroArch64 FBNeo",
-      "unique_id": "sfc.ra64.fbneo",
+      "unique_id": "sfc-hacks.ra64.fbneo",
       "description": "Supported extensions: 7z, ccd, cue, zip.",
       "is_retroachievements_compatible": false,
       "platforms": {
