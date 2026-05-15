@@ -76,12 +76,15 @@ Format follows the `am start` command syntax used by Android. This is the **comp
 
 | Placeholder | Resolves to | Use case |
 |---|---|---|
-| `{file.uri}` | SAF `content://` URI or `file://` URI for real paths | **`-d` (intent data field)** and URI-type extras |
-| `{file.path}` | Raw `content://` URI or raw filesystem path | **RetroArch `--es ROM`** and path-type extras |
+| `{file.path}` | Real filesystem path | Most emulators |
+| `{file.uri}` | Native `content://` or `file://` URI | **`-d` (intent data field)** and URI-type extras |
+| `{file.localuri}` | Resolved `file://` URI | Imagine-engine emulators |
 | `{tags.steamappid}` | Game title ID / Steam App ID | Steam / PC games |
 | `{tags.vita_game_id}` | PS Vita game ID | PS Vita |
 
-> **Rule: `-d` always uses `{file.uri}`. RetroArch `--es ROM` always uses `{file.path}`.**
+> **Rules:**
+> - `-d` (intent data) uses `{file.uri}` or `{file.localuri}`.
+> - Path-type extras (e.g. RetroArch `--es ROM`, `--es bootPath`) use `{file.path}`.
 
 ### Activity flags
 
@@ -197,4 +200,4 @@ For Windows, Linux, macOS use `executable` + `args`:
 }
 ```
 
-`{file.path}` always resolves to a real filesystem path on desktop, no SAF involved.
+On desktop, `{file.path}` resolves to a real filesystem path (no SAF involved).
