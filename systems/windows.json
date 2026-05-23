@@ -33,7 +33,8 @@
       "epic",
       "customgame",
       "amazon",
-      "steam"
+      "steam",
+      "localgameid"
     ]
   },
   "emulators": [
