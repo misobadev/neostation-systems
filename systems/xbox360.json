@@ -60,6 +60,10 @@
         "windows": {
           "executable": "Xenia.exe",
           "args": "\"{file.path}\""
+        },
+        "linux": {
+          "executable": "Xenia.AppImage",
+          "args": "\"{file.path}\""
         }
       }
     }
