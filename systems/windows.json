@@ -14,12 +14,11 @@
       "type": "computer"
     },
     "ids": {
-      "screenscraper": null,
+      "screenscraper": 138,
       "retroachievements": null
     },
     "folders": [
-      "windows",
-      "Windows"
+      "windows"
     ],
     "colors": [
       "#0078D4",
