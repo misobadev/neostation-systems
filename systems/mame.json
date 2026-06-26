@@ -15,7 +15,8 @@
     },
     "folders": [
       "mame",
-      "M.A.M.E."
+      "M.A.M.E.",
+      "mame-advmame"
     ],
     "colors": [
       "#07a0c3",
